@@ -1,4 +1,4 @@
-## Olá, sejam bem-vindo
+## Olá, seja bem-vindo
 
 ![Christian Winguer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianWinguer&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianWinguer&count_private=true&theme=tokyonight&layout=compact)](https://github.com/ChristianWinguer/github-readme-stats)
