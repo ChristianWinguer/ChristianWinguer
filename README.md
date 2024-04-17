@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Christian Winguer</h1>
 <h3 align="center">Desenvolvedor e estudante de Ciência da Computação</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christianwinguer&label=Profile%20views&color=0e75b6&style=flat" alt="christianwinguer" /> </p>
-
-- 📫 How to reach me **christianwinguercontato@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/christian-winguer-214324248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christian-winguer-214324248/" height="30" width="40" /></a>
